@@ -1,16 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\shero\\source\\repos\\FirstRabbitMQ-App\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{E8BF2469-74A4-42E7-966E-E3AC3EF71821}|Consumer\\Consumer.csproj|c:\\users\\shero\\source\\repos\\firstrabbitmq-app\\consumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8BF2469-74A4-42E7-966E-E3AC3EF71821}|Consumer\\Consumer.csproj|solutionrelative:consumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7EE0E8DF-0C14-482C-9400-23238117A375}|Producer\\Producer.csproj|c:\\users\\shero\\source\\repos\\firstrabbitmq-app\\producer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7EE0E8DF-0C14-482C-9400-23238117A375}|Producer\\Producer.csproj|solutionrelative:producer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -18,40 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 285,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\shero\\source\\repos\\FirstRabbitMQ-App\\Consumer\\Program.cs",
-              "RelativeDocumentMoniker": "Consumer\\Program.cs",
-              "ToolTip": "C:\\Users\\shero\\source\\repos\\FirstRabbitMQ-App\\Consumer\\Program.cs",
-              "RelativeToolTip": "Consumer\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T13:48:25.689Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\shero\\source\\repos\\FirstRabbitMQ-App\\Producer\\Program.cs",
-              "RelativeDocumentMoniker": "Producer\\Program.cs",
-              "ToolTip": "C:\\Users\\shero\\source\\repos\\FirstRabbitMQ-App\\Producer\\Program.cs",
-              "RelativeToolTip": "Producer\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACUAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T13:48:21.599Z"
             }
           ]
         }
